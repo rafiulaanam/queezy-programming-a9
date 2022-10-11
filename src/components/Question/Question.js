@@ -8,7 +8,7 @@ const Question = (props) => {
         <div className='question'>
             <div>
             <div className='queye'>
-            <h5>{question}</h5>
+            
             <ToastComponent key={props.question.id} correctAnswer={props.question}></ToastComponent>
             </div>
            <div className='option'>
