@@ -7,9 +7,7 @@ const Header = () => {
             <header>
             <h1><Link className='title' to={'/'}>Queezy Programming</Link></h1>
             <nav>
-                <Link className='links' to={'/home'}>Home</Link>
-                <Link className='links' to={'/about'}>About</Link>
-                <Link className='links' to={'/topics'}>Topics</Link>
+                 <Link className='links' to={'/topics'}>Topics</Link>
                 <Link className='links' to={'/statistics'}>Statistics</Link>
                 <Link className='links' to={'/blogs'}>Blogs</Link>
             </nav>

@@ -1,0 +1,17 @@
+.question{
+    width: 50%;
+    box-shadow: 0px 0px 20px gray ;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 40px;
+}
+p{
+    border: 2px solid rgb(0, 92, 128);
+    padding: 5px;
+    border-radius: 5px
+}
+.queye{
+    display: flex;
+    gap: 20px;
+}
