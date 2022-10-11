@@ -8,7 +8,7 @@ const Statistics = () => {
         <div className='sta'>
            <h1 className='text-center'><u>Statistics of Winner</u></h1>
 
-           <h5>First Three Winners</h5>
+           
            <Table striped bordered hover>
       <thead>
         <tr>
