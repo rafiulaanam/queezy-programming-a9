@@ -11,7 +11,7 @@ const questions = quizs.data.questions
         <div className='Quiz'>
             <h3>Quiz of {quizs.data.name}</h3>
 
-                <div'>
+                <div className='gap'>
                 {
                     questions.map(question=><Question key={question.id} question={question}></Question>)
                 }

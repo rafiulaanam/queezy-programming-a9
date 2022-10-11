@@ -1,0 +1,11 @@
+.home{
+    margin-top: 15%;
+}
+.home button{
+    background-color: lightskyblue;
+    border-radius: 5px;
+    border: none;
+    padding: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}

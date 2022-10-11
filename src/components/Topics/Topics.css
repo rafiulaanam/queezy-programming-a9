@@ -3,4 +3,8 @@
     grid-template-columns: repeat(4,1fr);
     padding-left: 5%;
     padding-right: 5%;
+    margin-top: 30px;
+}
+.select{
+    margin-top: 50px;
 }
